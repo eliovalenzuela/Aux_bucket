@@ -1,0 +1,12 @@
+[submodule "zio"]
+	path = zio
+	url = https://github.com/eliovalenzuela/zio.git
+[submodule "fmc-bus"]
+	path = fmc-bus
+	url = https://github.com/eliovalenzuela/fmc-bus.git
+[submodule "spec-sw"]
+	path = spec-sw
+	url = https://github.com/eliovalenzuela/spec-sw.git
+[submodule "svec-sw"]
+	path = svec-sw
+	url = https://github.com/eliovalenzuela/svec-sw.git
